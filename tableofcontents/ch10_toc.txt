@@ -1,0 +1,15 @@
+ch10-a - Introducing Recursion
+ch10-b - The Factorial Function
+ch10-c - A Recursive Example
+ch10-d - The Recursive Leap of Faith
+ch10-e - The Fibonacci Sequence
+ch10-f - Recursive Efficiency
+ch10-g - Efficient Recursion
+ch10-h - Wrappers & Helpers
+ch10-i - Checking Palindromes
+ch10-j - Palindrome Efficiency
+ch10-k - A Recursion Checklist I
+ch10-l - A Recursion Checklist II
+ch10-m - Try It Out
+ch10-n - Solving the Problem I
+ch10-o - Solving the Problem II

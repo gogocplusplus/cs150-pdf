@@ -1,0 +1,16 @@
+ch20-a - A C++ Idiom
+ch20-b - Counting
+ch20-c - Cumulative Algorithms
+ch20-d - Extreme Values
+ch20-e - Returning a Pointer
+ch20-f - Returning an Index
+ch20-g - The Fencepost Algorithm
+ch20-h - A Reverse Fencepost
+ch20-i - Searching Algorithms
+ch20-j - The Starter Code
+ch20-k - The find() Function
+ch20-l - Linear Search
+ch20-m - Linear Search Efficiency
+ch20-n - Improving Linear Search
+ch20-o - Binary Search
+ch20-p - Implementing Binary Search

@@ -1,0 +1,15 @@
+ch05-a - Creating string Objects
+ch05-b - String Input and Output
+ch05-c - Concatenation & Comparison
+ch05-d - Mutability & Value Assignment
+ch05-e - Member Functions
+ch05-f - String Members
+ch05-g - Characters
+ch05-h - Selecting Characters
+ch05-i - Substrings
+ch05-j - Searching a String
+ch05-k - References
+ch05-l - Conversions & Const-ref
+ch05-m - Reference Parameters
+ch05-n - String Value Parameters
+ch05-o - String Reference Parameters

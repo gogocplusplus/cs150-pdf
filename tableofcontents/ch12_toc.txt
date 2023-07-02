@@ -1,0 +1,14 @@
+ch12-a - Processing Lines
+ch12-b - Processing Tokens
+ch12-c - Applied File I/O
+ch12-d - Stub the Function
+ch12-e - Searching & Numbering
+ch12-f - Validating Data
+ch12-g - String Streams
+ch12-h - The format Function
+ch12-i - Input String Streams
+ch12-j - An Input String Stream Exercise
+ch12-k - The Arguments
+ch12-l - The Longest Line
+ch12-m - Counting the Lines
+ch12-n - Processing the Tokens

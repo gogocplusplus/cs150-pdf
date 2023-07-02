@@ -1,0 +1,14 @@
+ch22-a - C++ strings vs C-Strings
+ch22-b - C-String Assignment
+ch22-c - The strncpy Function
+ch22-d - The strcat Functions
+ch22-e - Comparing C-Strings
+ch22-f - The strlen Function
+ch22-g - The strcpy Function
+ch22-h - The strcmp Function
+ch22-i - Writing Your Own Functions
+ch22-j - Find First
+ch22-k - Find Last
+ch22-l - Find First of Any
+ch22-m - Finding Substrings
+ch22-n - find_target.cpp

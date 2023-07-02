@@ -1,0 +1,15 @@
+ch28-a - Polymorphic Lists
+ch28-b - Pointers to the Rescue
+ch28-c - Early & Late Binding
+ch28-d - How Late Binding Works
+ch28-e - Multiple Inheritance
+ch28-f - Contraction
+ch28-g - Private Inheritance
+ch28-h - Composition
+ch28-i - Specification Inheritance
+ch28-j - Abstract Classes
+ch28-k - Creating an Abstract Class
+ch28-l - Using an Abstract Class
+ch28-m - A Triangle Example
+ch28-n - Redefining Functions
+ch28-o - Final Classes

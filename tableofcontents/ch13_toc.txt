@@ -1,0 +1,13 @@
+ch13-a - Conversion Functions
+ch13-b - Using the Conversion Functions
+ch13-c - Stub the Replacements
+ch13-d - Using #define
+ch13-e - Conditional Compilation
+ch13-f - Predefined Symbols
+ch13-g - Comparing the Results
+ch13-h - Handling Errors
+ch13-i - The Terminator
+ch13-j - Using assert
+ch13-k - More Assertions
+ch13-l - Completion Codes
+ch13-m - Error Flags

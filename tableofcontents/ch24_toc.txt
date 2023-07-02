@@ -1,0 +1,16 @@
+ch24-a - Time as a Structure
+ch24-b - Type Invariants
+ch24-c - A Scenario
+ch24-d - The Problem
+ch24-e - Information Hiding
+ch24-f - The Public Interface
+ch24-g - Member Functions
+ch24-h - Proving the Interface
+ch24-i - The Implementation File
+ch24-j - Implementing Member Functions
+ch24-k - Introducing OOP
+ch24-l - What are Objects?
+ch24-m - State and Behavior
+ch24-n - What are Classes?
+ch24-o - What is Encapsulation?
+ch24-p - Encapsulation in the "Real" World

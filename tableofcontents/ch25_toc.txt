@@ -1,0 +1,16 @@
+ch25-a - The Wall of Abstraction
+ch25-b - Class Definition Syntax
+ch25-c - Public and Private
+ch25-d - The Implicit Parameter
+ch25-e - The Pointer this
+ch25-f - The sum Member Function
+ch25-g - Setters
+ch25-h - Getter & Setter Patterns
+ch25-i - Constructors
+ch25-j - Member Initialization
+ch25-k - Working Constructor
+ch25-l - Assignment vs. Initialization
+ch25-m - The Initializer List
+ch25-n - The Working Constructor
+ch25-o - Conversion Constructors
+ch25-p - Implicit vs. Explicit

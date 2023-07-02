@@ -1,0 +1,16 @@
+ch19-a - Introducing Arrays
+ch19-b - Arrays vs. vector
+ch19-c - Defining Arrays
+ch19-d - Array Initialization
+ch19-e - The Allocated Size
+ch19-f - Array Selection
+ch19-g - Array Characteristics
+ch19-h - Pointers & Arrays
+ch19-i - Pointer Arithmetic & Arrays
+ch19-j - Dereferencing Arrays
+ch19-k - Arrays & Functions
+ch19-l - Decaying Arrays
+ch19-m - Arrays & Const
+ch19-n - Arrays and Loops
+ch19-o - Counter-Controlled Loops
+ch19-p - Sentinel Loops

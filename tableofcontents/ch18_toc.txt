@@ -1,0 +1,16 @@
+ch18-a - Digital Images
+ch18-b - RGB Colors
+ch18-c - The RGB Explorer
+ch18-d - Digital Images in C++
+ch18-e - Loading an Image
+ch18-f - More Loading an Image
+ch18-g - Saving an Image
+ch18-h - Changing the Format
+ch18-i - Digital Filters
+ch18-j - Address Arithmetic
+ch18-k - Iterator Loops
+ch18-l - The Darken Filter
+ch18-m - Dealing with Channels
+ch18-n - State Filters
+ch18-o - Pointers & Structures
+ch18-p - Using reinterpret_cast

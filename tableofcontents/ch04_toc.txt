@@ -1,0 +1,12 @@
+ch04-a - Writing Functions
+ch04-b - Function Syntax
+ch04-c - The Function Body
+ch04-d - Functional Decomposition
+ch04-e - Declaring & Defining
+ch04-f - Making Decisions
+ch04-g - Blocks, Style & Indentation
+ch04-h - The bool Data Type
+ch04-i - The Relational Operators
+ch04-j - The Logical Operators
+ch04-k - Multi-way Branching
+ch04-l - Nested if Statements

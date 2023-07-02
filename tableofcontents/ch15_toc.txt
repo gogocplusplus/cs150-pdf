@@ -1,0 +1,16 @@
+ch15-a - Structured Types
+ch15-b - Structure Definitions
+ch15-c - Structure Variables
+ch15-d - Initialization
+ch15-e - Member Access
+ch15-f - Aggregate & Unsupported Operations
+ch15-g - Structure Arguments
+ch15-h - By-Value or By-Reference
+ch15-i - A Compare Function
+ch15-j - Returning Structures
+ch15-k - Structured Bindings
+ch15-l - Enumerated Types
+ch15-m - Defining Enumerated Types
+ch15-n - Enumerated Variables
+ch15-o - Enumerated Output
+ch15-p - Enumerated Input

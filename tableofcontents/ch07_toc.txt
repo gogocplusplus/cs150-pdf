@@ -1,0 +1,15 @@
+ch07-a - How to Write Loops
+ch07-b - Implementing the Plan
+ch07-c - The Loop Bounds
+ch07-d - The Bounds Precondition
+ch07-e - Advancing the Loop
+ch07-f - The Loop Goal
+ch07-g - Loop Operations
+ch07-h - The Postcondition
+ch07-i - Loop Guards
+ch07-j - Necessary & Intentional Bounds
+ch07-k - Sentinel Loop Patterns
+ch07-l - The Primed Loop Pattern
+ch07-m - The Loop-and-a-half Pattern
+ch07-n - The Flag-controlled Pattern
+ch07-o - Validating Data

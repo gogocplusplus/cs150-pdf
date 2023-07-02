@@ -1,0 +1,15 @@
+ch16-a - Why Vectors
+ch16-b - Meet the vector
+ch16-c - vector Variables
+ch16-d - vector Initialization
+ch16-e - Element Access
+ch16-f - Range Checking
+ch16-g - Growing & Shrinking
+ch16-h - Vectors & Loops
+ch16-i - Common Algorithms
+ch16-j - Counting Algorithms
+ch16-k - Cumulative Algorithms
+ch16-l - Extreme Values
+ch16-m - Modifying Algorithms
+ch16-n - Filling & Shuffling
+ch16-o - Vectors & Functions

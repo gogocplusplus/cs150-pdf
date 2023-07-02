@@ -1,0 +1,15 @@
+ch17-a - Memory & Addresses
+ch17-b - Naming Concepts
+ch17-c - Global Variables
+ch17-d - Local Variables
+ch17-e - Characteristics of Variables
+ch17-f - The sizeof Operator
+ch17-g - The Address Operator
+ch17-h - Pointers
+ch17-i - Defining Pointers
+ch17-j - Initializing Pointers
+ch17-k - Dereferencing Pointers
+ch17-l - Pointer Assignment
+ch17-m - The "null" Pointer
+ch17-n - Call By Pointer
+ch17-o - Pointers & const

@@ -1,0 +1,15 @@
+ch08-a - Library Mechanics
+ch08-b - Separate Compilation
+ch08-c - The Client or Test Program
+ch08-d - The Interface or Header File
+ch08-e - Adding the Prototypes
+ch08-f - Library Types in Interfaces
+ch08-g - The Implementation File
+ch08-h - Stubbing the Implementation
+ch08-i - The Make File
+ch08-j - Adding the Prototypes
+ch08-k - Documenting the Interface
+ch08-l - Planning & Implementation
+ch08-m - The while Loop
+ch08-n - Limit Bounds
+ch08-o - Running Doxygen

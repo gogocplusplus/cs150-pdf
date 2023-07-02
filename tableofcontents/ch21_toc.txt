@@ -1,0 +1,15 @@
+ch21-a - An Array Example
+ch21-b - Appending Elements
+ch21-c - Traversing the Array
+ch21-d - Inserting Elements
+ch21-e - Applying the Algorithm
+ch21-f - Removing Elements
+ch21-g - Removing Multiple Elements
+ch21-h - 2D Arrays
+ch21-i - Row Major Order
+ch21-j - 2D Array Initialization
+ch21-k - 2D Arrays & Functions
+ch21-l - C-Style Strings
+ch21-m - C-String Basics
+ch21-n - Array-based C-Strings
+ch21-o - Pointer-based C-Strings
