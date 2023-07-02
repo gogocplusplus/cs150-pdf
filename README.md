@@ -3,7 +3,7 @@ Coursereader for C++ CS 150 converted into .pdf format
 * Key: For slides A = 1, B = 2, C = 3,... Z = 26
 
 ## Download
-* Using git: `git clone https://github.com/gogocplusplus/cs150-midterm2.git`
+* Using git: `git clone https://github.com/gogocplusplus/cs150-pdf.git`
 * Using google drive: https://drive.google.com/drive/folders/1U0fwFJCvnp-j33A2JbKj0fhouDYK1zwa?usp=drive_link
 * Releases: https://github.com/gogocplusplus/cs150-pdf/releases
 * Releases (pdf-only): only the combined .pdf files (example: ch01.pdf - ch28.pdf)
